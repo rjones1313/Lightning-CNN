@@ -1,4 +1,4 @@
-This repository does not host raw data files as a result of file size restrictions.
+This repository does not host raw data files as a result of file size restrictions. Small samples of data are made available for testing.
 
 For access to the following data, please visit these links:
 
