@@ -1,0 +1,1 @@
+These scripts were used to run the CNN and create the figures used in the paper. Due to the lack of availability of the data in this repository, the CNN script cannot be run, but is there for perusal. Additionally, the figures script has been modified to account for use by the sample data, instead of the entire dataset used in the study.
